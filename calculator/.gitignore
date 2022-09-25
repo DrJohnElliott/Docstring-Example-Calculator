@@ -1,0 +1,4 @@
+# .getignore
+
+venv/
+__pycach__
